@@ -62,6 +62,7 @@ body {
 }
 
 /* end nav  */
+
 /* start landing */
 .landing {
     background-color: var(--dark-color);
@@ -69,6 +70,7 @@ body {
 }
 
 /* end landing */
+
 /* features */
 .features .feat .icon-holder {
     height: 200px;
@@ -94,6 +96,7 @@ body {
 }
 
 /* end features  */
+
 /* start work */
 .our-work {
     background-color: var(--section);
@@ -140,6 +143,7 @@ body {
 }
 
 /* end work */
+
 /* start stuff */
 .stuff .description {
     max-width: 500px;
@@ -151,6 +155,7 @@ body {
 }
 
 /* end stuff */
+
 /* start team */
 .team {
     background-color: var(--section);
@@ -173,12 +178,14 @@ body {
 }
 
 /* end team */
+
 /* project  */
 .project {
     background-color: var(--dark-color);
 }
 
 /* end  */
+
 /* start subscribe */
 .subscribe {
     background-color: var(--primary);
